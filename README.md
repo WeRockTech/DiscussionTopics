@@ -12,7 +12,7 @@ Questions / Topics to use in discussion.
     * Specific topics
     * Free style
 
-## Discussion Topics
+## Discussion Topics & Series
 
 * [General Topics](GeneralTopics.md)
 * [Women Rock Tech Series](WomenRockTechSeries.md)
