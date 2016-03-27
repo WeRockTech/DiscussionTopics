@@ -4,4 +4,4 @@
 | Type        | Idea / Feedback / Bug / Code / Other |
 | Title       |                                      |
 | Description |                                      |
-| Screenshot  | [ ]                                  |
+| Screenshot  | Include? Yes / No                    |
