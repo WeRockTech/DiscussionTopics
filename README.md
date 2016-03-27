@@ -1,6 +1,6 @@
 # DiscussionTopics
 
-Questions / Topics to use in chats
+Questions / Topics to use in discussion.
 
 ## Format
 
