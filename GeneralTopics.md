@@ -10,13 +10,3 @@
 * What were your biggest **challenges**?
 * What is your worst **mistake**?
 * What is your biggest **achievement**?
-
-## Series
-
-### WomenToWatch
-
-* What **advice** would you give to other **women** thinking of joining?
-
-### WomenRockTech
-
-* What **advice** would you give to other **women** thinking of joining?
