@@ -11,7 +11,7 @@ Contributions of any kind are welcome! These can include but limited to:
 
 ### Submit feedback / idea etc
 
-* Open an [Issues](/issues)
+* Open an [Issues](https://github.com/WeRockTech/DiscussionTopics/issues)
 
 ### Make code changes
 
