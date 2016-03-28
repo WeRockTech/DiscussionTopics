@@ -10,5 +10,3 @@
 
 * Would you go again?
 * Have you been to more events since?
-
-* What advice would you give to someone especially Women who would like to go but are unsure?
