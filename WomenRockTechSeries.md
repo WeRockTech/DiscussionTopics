@@ -4,4 +4,5 @@ Beginning with [General Topics](GeneralTopics.md)
 
 ### WomenToWatch
 
-* What **advice** would you give to other **women** thinking of joining?
+* *Custom discussion topics*
+* What advice would you give to someone especially **Women** who would like to go but are unsure?
