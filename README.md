@@ -10,7 +10,7 @@ Questions / Topics to use in discussion.
     * Introduction
     * General topics
     * Specific topics
-    * Free style
+    * Free style (if time allows)
 
 ## Discussion Topics & Series
 
