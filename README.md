@@ -23,7 +23,7 @@ Questions / Topics to use in discussion.
     * [ ] [Gemma Milne](CustomTopics/WomenToWatch2016/GemmaMilne.md)
     * [ ] [Maxine Mackintosh](CustomTopics/WomenToWatch2016/MaxineMackintosh.md)
     * [ ] [Angela Bradbury](CustomTopics/WomenToWatch2016/AngelaBradbury.md)
-    * [ ] [Eleanor Harding](CustomTopics/WomenToWatch2016/EleanoeHarding.md)
+    * [ ] [Eleanor Harding](CustomTopics/WomenToWatch2016/EleanorHarding.md)
     * [ ] [Laura Lambert](CustomTopics/WomenToWatch2016/LauraLambert.md)
     * [ ] [Sophie Dundovic](CustomTopics/WomenToWatch2016/SophieDundovic.md)
     * [ ] [Solveiga Pakštaitė](CustomTopics/WomenToWatch2016/SolveigaPakštaitė.md)
