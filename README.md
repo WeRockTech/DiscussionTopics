@@ -18,6 +18,8 @@ Questions / Topics to use in discussion.
 * [Women Rock Tech Series](WomenRockTechSeries.md)
     * [ ] [Krissy Rabino](CustomTopics/WomenRockTech/KrissyRabino.md)
     * [ ] [Marta Kutt](CustomTopics/WomenRockTech/MartaKutt.md)
+* TeensRockTech
+    * [Katerina & Elena](CustomTopics/TeensRockTech/KaterinaElena.md)
 * [Women To Watch Series](WomenToWatchSeries.md)
     * [ ] [Kimberley Cook](CustomTopics/WomenToWatch2016/KimberleyCook.md)
     * [ ] [Gemma Milne](CustomTopics/WomenToWatch2016/GemmaMilne.md)
