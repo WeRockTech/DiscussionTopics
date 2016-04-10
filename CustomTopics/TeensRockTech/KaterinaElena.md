@@ -5,7 +5,7 @@
 * Hello, my name is Eddie
 * Welcome to WeRockTech
 * We are at the EmpowerHack Health Hackathon
-* Here with my I have the wonderful teen coder Katerina & Elena from Acorn Aspirations
+* Joining me is the wonderful teen coder **Katerina** & **Elena** from Acorn Aspirations
 
 ## Katerina
 
