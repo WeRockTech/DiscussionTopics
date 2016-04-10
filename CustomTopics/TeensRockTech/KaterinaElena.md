@@ -12,6 +12,7 @@
 * Lets hear a bit about you
     * Typical week day
     * Typical weekend
+    * What subjects do you like at school
 * This is not your first hackathon
     * Which one did you go to before? AcornHack
     * Did you win a prize
