@@ -13,4 +13,4 @@
 * Can you tell us a bit more about what you do?
     * Day job
     * Community
-* What advice would you give to other mums
+* What advice would you give to other mums who want to get involved
