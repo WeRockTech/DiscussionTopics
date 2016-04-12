@@ -15,14 +15,17 @@ Questions / Topics to use in discussion.
 ## Discussion Topics & Series
 
 * TeensRockTech Series
-    * [ ] [Katerina & Elena](CustomTopics/TeensRockTech/KaterinaElena.md)
+    * [x] [Katerina & Elena](CustomTopics/TeensRockTech/KaterinaElena.md)
 * MumsRockTech Series
-    * [ ] [Sandra Gonzalez](CustomTopics/MumsRockTech/SandraGonzalez.md)
-
-* [General Topics](GeneralTopics.md)
+    * [x] [Sandra Gonzalez](CustomTopics/MumsRockTech/SandraGonzalez.md)
 * [Women Rock Tech Series](WomenRockTechSeries.md)
+    * [x] [Gerri Ellis](CustomTopics/WomenRockTech/GerriEllis.md)
+    * [x] [Rani Selvarajah](CustomTopics/WomenRockTech/RaniSelvarajah.md)
     * [ ] [Krissy Rabino](CustomTopics/WomenRockTech/KrissyRabino.md)
     * [ ] [Marta Kutt](CustomTopics/WomenRockTech/MartaKutt.md)
+
+
+* [General Topics](GeneralTopics.md)
 * [Women To Watch Series](WomenToWatchSeries.md)
     * [ ] [Kimberley Cook](CustomTopics/WomenToWatch2016/KimberleyCook.md)
     * [ ] [Gemma Milne](CustomTopics/WomenToWatch2016/GemmaMilne.md)
