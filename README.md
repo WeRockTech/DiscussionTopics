@@ -39,3 +39,5 @@ Questions / Topics to use in discussion.
     * [ ] [Luciana Cas](CustomTopics/WomenToWatch2016/LucianaCas.md)
     * [ ] [Zara Nowell](CustomTopics/WomenToWatch2016/ZaraNowell.md)
     * [ ] [Phoebe Hugh](CustomTopics/WomenToWatch2016/PhoebeHugh.md)
+    * [ ] [Nikhila Ravi](CustomTopics/WomenToWatch2016/NikhilaRavi.md)
+    * [ ] [Diana K L](CustomTopics/WomenToWatch2016/DianaKL.md)
