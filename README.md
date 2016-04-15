@@ -41,3 +41,4 @@ Questions / Topics to use in discussion.
     * [ ] [Phoebe Hugh](CustomTopics/WomenToWatch2016/PhoebeHugh.md)
     * [ ] [Nikhila Ravi](CustomTopics/WomenToWatch2016/NikhilaRavi.md)
     * [ ] [Diana K L](CustomTopics/WomenToWatch2016/DianaKL.md)
+    * [ ] [Dorothy Wingrove](CustomTopics/WomenToWatch2016/DorothyWingrove.md)
