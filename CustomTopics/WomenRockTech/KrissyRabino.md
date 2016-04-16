@@ -3,8 +3,6 @@
 ## Intro
 
 * Introduce yourself
-    * What’s your name?
-    * And what do you do?
 * Can you tell us a bit more about what you do for a **day job**?
 * How did you get into **tech** and/or the **techcommunity**?
 * Why did you get into **tech** and/or the **tech community**?
@@ -17,4 +15,4 @@
 
 * New to presenting and workshops
     * New to Ruby
-* 
+*
