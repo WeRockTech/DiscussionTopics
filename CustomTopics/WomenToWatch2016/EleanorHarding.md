@@ -1,6 +1,10 @@
 # Eleanor Harding
 
-"Product-developing, pixel-perfecting, experience-building, interaction-designing, hackathon-winning Supergeek. Works in space, mostly." From Twitter bio
+From Twitter bio
+> Product-developing, pixel-perfecting, experience-building, interaction-designing, hackathon-winning Supergeek. Works in space, mostly
+
+From CodeFirstGirls Ones to Watch 2016
+> Eleanor Harding is a Swiss-army-knife Product Developer with a track record of winning hackathons including TechCrunch Disrupt and the SA Microsoft Imagine Cup. She’s the founder of Rigby/Rose, a consultancy which turns big ideas into elegant products - currently working with the Open Space Agency on NASA’s Asteroid Grand Challenge
 
 * [Twitter](https://twitter.com/tweetanor)
 * [GitHub](https://github.com/eleanorharding)
