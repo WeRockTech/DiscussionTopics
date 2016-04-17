@@ -24,6 +24,7 @@
     * any pointers for people to win
 * Teach at CodeFirstGirls
     * tell us a bit more about CF:G
+    * Selected as the Ones to Watch 2016
 * Listen to audio books, which ones would you recommend
 * In additon to tech
     * Photography
