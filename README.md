@@ -24,8 +24,6 @@ Questions / Topics to use in discussion.
     * [ ] [Krissy Rabino](CustomTopics/WomenRockTech/KrissyRabino.md)
     * [ ] [Marta Kutt](CustomTopics/WomenRockTech/MartaKutt.md)
 
-
-* [General Topics](GeneralTopics.md)
 * [Women To Watch Series](WomenToWatchSeries.md)
     * [ ] [Kimberley Cook](CustomTopics/WomenToWatch2016/KimberleyCook.md)
     * [ ] [Gemma Milne](CustomTopics/WomenToWatch2016/GemmaMilne.md)
