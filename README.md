@@ -21,7 +21,7 @@ Questions / Topics to use in discussion.
 * [Women Rock Tech Series](WomenRockTechSeries.md)
     * [x] [Gerri Ellis](CustomTopics/WomenRockTech/GerriEllis.md)
     * [x] [Rani Selvarajah](CustomTopics/WomenRockTech/RaniSelvarajah.md)
-    * [ ] [Krissy Rabino](CustomTopics/WomenRockTech/KrissyRabino.md)
+    * [x] [Krissy Rabino](CustomTopics/WomenRockTech/KrissyRabino.md)
     * [ ] [Marta Kutt](CustomTopics/WomenRockTech/MartaKutt.md)
 
 * [Women To Watch Series](WomenToWatchSeries.md)
