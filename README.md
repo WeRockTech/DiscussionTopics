@@ -25,11 +25,11 @@ Questions / Topics to use in discussion.
     * [ ] [Marta Kutt](CustomTopics/WomenRockTech/MartaKutt.md)
 
 * [Women To Watch Series](WomenToWatchSeries.md)
+    * [ ] [Eleanor Harding](CustomTopics/WomenToWatch2016/EleanorHarding.md)
     * [ ] [Kimberley Cook](CustomTopics/WomenToWatch2016/KimberleyCook.md)
     * [ ] [Gemma Milne](CustomTopics/WomenToWatch2016/GemmaMilne.md)
     * [ ] [Maxine Mackintosh](CustomTopics/WomenToWatch2016/MaxineMackintosh.md)
     * [ ] [Angela Bradbury](CustomTopics/WomenToWatch2016/AngelaBradbury.md)
-    * [ ] [Eleanor Harding](CustomTopics/WomenToWatch2016/EleanorHarding.md)
     * [ ] [Laura Lambert](CustomTopics/WomenToWatch2016/LauraLambert.md)
     * [ ] [Sophie Dundovic](CustomTopics/WomenToWatch2016/SophieDundovic.md)
     * [ ] [Solveiga Pakštaitė](CustomTopics/WomenToWatch2016/SolveigaPakštaitė.md)
