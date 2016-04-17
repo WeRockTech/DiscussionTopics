@@ -23,7 +23,9 @@
     * what would you recommend to people who have not been before
     * any pointers for people to win
 * Teach at CodeFirstGirls
+    * tell us a bit more about CF:G
 * Listen to audio books, which ones would you recommend
 * In additon to tech
     * Photography
     * Videography
+* Whats your next step
