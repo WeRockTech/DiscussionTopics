@@ -21,4 +21,3 @@
 * New to presenting, workshops & Ruby
     * New to Ruby
 * Encouraging dance friends to come to tech events
-
