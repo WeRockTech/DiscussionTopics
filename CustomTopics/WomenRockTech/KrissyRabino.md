@@ -4,8 +4,7 @@
 
 * Introduce yourself
 * Can you tell us a bit more about what you do for a **day job**?
-* How did you get into **tech** and/or the **techcommunity**?
-* Why did you get into **tech** and/or the **tech community**?
+* How did you get into **tech** and/or the **tech community**?
 * What was your **turning** point to get involved in the **tech community**?
 * What were your biggest **challenges**?
 * Are there any things you wish you'd done differently during different stages of your career? If so, what and why??
@@ -13,6 +12,8 @@
 
 # Krissy Rabino
 
-* New to presenting and workshops
+* Tech communities you are active in
+* New to presenting, workshops & Ruby
     * New to Ruby
-*
+* Encouraging dance friends to come to tech events
+
