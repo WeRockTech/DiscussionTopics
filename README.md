@@ -14,10 +14,12 @@ Questions / Topics to use in discussion.
 
 ## Discussion Topics & Series
 
-* TeensRockTech Series
+* Teens Rock Tech Series
     * [x] [Katerina & Elena](CustomTopics/TeensRockTech/KaterinaElena.md)
-* MumsRockTech Series
+
+* Mums Rock Tech Series
     * [x] [Sandra Gonzalez](CustomTopics/MumsRockTech/SandraGonzalez.md)
+
 * [Women Rock Tech Series](WomenRockTechSeries.md)
     * [x] [Gerri Ellis](CustomTopics/WomenRockTech/GerriEllis.md)
     * [x] [Rani Selvarajah](CustomTopics/WomenRockTech/RaniSelvarajah.md)
