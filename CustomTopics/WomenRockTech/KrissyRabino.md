@@ -1,5 +1,7 @@
 # Krissy Rabino
 
+"I like to cut shapes with dance moves and code. This is where I do it with letters of the alphabet." From Twitter bio
+
 ## Intro
 
 * Introduce yourself
