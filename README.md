@@ -27,7 +27,7 @@ Questions / Topics to use in discussion.
     * [ ] [Marta Kutt](CustomTopics/WomenRockTech/MartaKutt.md)
 
 * [Women To Watch Series](WomenToWatchSeries.md)
-    * [ ] [Eleanor Harding](CustomTopics/WomenToWatch2016/EleanorHarding.md)
+    * [x] [Eleanor Harding](CustomTopics/WomenToWatch2016/EleanorHarding.md)
     * [ ] [Kimberley Cook](CustomTopics/WomenToWatch2016/KimberleyCook.md)
     * [ ] [Gemma Milne](CustomTopics/WomenToWatch2016/GemmaMilne.md)
     * [ ] [Maxine Mackintosh](CustomTopics/WomenToWatch2016/MaxineMackintosh.md)
