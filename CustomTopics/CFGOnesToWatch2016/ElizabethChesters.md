@@ -20,3 +20,8 @@ From CodeFirstGirls Ones to Watch 2016
 * Are there any things you wish you'd done differently during different stages of your career? If so, what and why??
 * What is your greatest **achievement**?
 * What **advice** to you have to others who want to get into technology and entrepreneurship based on your experience?
+
+## Elizabeth Chesters
+
+* Pivoting your career from Coding to UX
+*
