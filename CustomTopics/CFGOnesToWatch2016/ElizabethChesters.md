@@ -24,3 +24,4 @@ From CodeFirstGirls Ones to Watch 2016
 ## Elizabeth Chesters
 
 * Pivoting your career from Coding to UX
+* Involved in many communities
