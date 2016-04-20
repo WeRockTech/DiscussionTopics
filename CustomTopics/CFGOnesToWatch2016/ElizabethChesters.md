@@ -25,3 +25,6 @@ From CodeFirstGirls Ones to Watch 2016
 
 * Pivoting your career from Coding to UX
 * Involved in many communities
+    * Code First Girls (CF: G)
+    * EmpowerHack
+    * Women Hack For NoN-Profits (WHFNP)
