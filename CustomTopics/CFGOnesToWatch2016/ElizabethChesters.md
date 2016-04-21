@@ -30,5 +30,5 @@ From CodeFirstGirls Ones to Watch 2016
     * Code First Girls (CF: G)
     * EmpowerHack
     * Women Hack For NoN-Profits (WHFNP)
-    * UX for Change
+    * Ladies that UX
     * ...
