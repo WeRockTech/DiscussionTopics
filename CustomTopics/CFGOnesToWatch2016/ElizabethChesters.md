@@ -9,6 +9,7 @@ From CodeFirstGirls Ones to Watch 2016
 * [Twitter](https://twitter.com/EChesters)
 * [GitHub](https://github.com/EChesters)
 * [Website](http://echesters.co.uk)
+* [LinkedIn](https://www.linkedin.com/in/elizabeth-chesters-a9297883)
 
 ## Intro
 
