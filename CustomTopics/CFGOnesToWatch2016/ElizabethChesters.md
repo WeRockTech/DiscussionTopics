@@ -24,6 +24,7 @@ From CodeFirstGirls Ones to Watch 2016
 
 ## Elizabeth Chesters
 
+* CF: G Ones to Watch 2016
 * Pivoting your career from Coding to UX
 * Involved in many communities
     * Code First Girls (CF: G)
