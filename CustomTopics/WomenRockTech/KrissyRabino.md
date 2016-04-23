@@ -1,6 +1,7 @@
 # Krissy Rabino
 
-"I like to cut shapes with dance moves and code. This is where I do it with letters of the alphabet." From Twitter bio
+From Twitter bio
+> I like to cut shapes with dance moves and code. This is where I do it with letters of the alphabet
 
 * [Twitter](https://twitter.com/krissygoround)
 * [GitHub](https://github.com/krissy)
