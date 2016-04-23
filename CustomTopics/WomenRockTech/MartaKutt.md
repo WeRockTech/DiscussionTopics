@@ -28,4 +28,5 @@ From Twitter bio
 
 * Would you go again?
 * Have you been to more events since?
+* Where do you see yourself in 1, 3, 5 years
 * What would you say to others who are unsure about joining?
