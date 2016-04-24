@@ -35,3 +35,12 @@ From CodeFirstGirls Ones to Watch 2016
     * Photography
     * Videography
 * Whats your next step
+
+## Appendix
+
+### Recommended Audio Books
+
+* [Zero to One by Peter Thiel](http://www.audible.co.uk/pd/Business/Zero-to-One-Audiobook/B00XLWQV6Q/ref=a_search_c4_1_1_srTtl?qid=1461403315&sr=1-1)
+* [Lean In by Sheryl Sandberg](http://www.audible.co.uk/pd/Business/Lean-In-Audiobook/B0141KMP1Q/ref=a_search_c4_1_1_srTtl?qid=1461403518&sr=1-1)
+* [The Hard Thing About Hard Things by Ben Horowitz](http://www.audible.co.uk/pd/Business/The-Hard-Thing-About-Hard-Things-Audiobook/B00I0AJ8AA/ref=a_search_c4_1_1_srTtl?qid=1461403446&sr=1-1)
+* [Black Box Thinking by Matthew Syed](http://www.audible.co.uk/pd/Business/Black-Box-Thinking-Audiobook/B00WKKAGZ2/ref=a_search_c4_1_1_srTtl?qid=1461404297&sr=1-1)
