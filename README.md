@@ -24,11 +24,11 @@ Questions / Topics to use in discussion.
     * [x] [Gerri Ellis](CustomTopics/WomenRockTech/GerriEllis.md)
     * [x] [Rani Selvarajah](CustomTopics/WomenRockTech/RaniSelvarajah.md)
     * [x] [Krissy Rabino](CustomTopics/WomenRockTech/KrissyRabino.md)
-    * [ ] [Marta Kutt](CustomTopics/WomenRockTech/MartaKutt.md)
+    * [x] [Marta Kutt](CustomTopics/WomenRockTech/MartaKutt.md)
 
 * [CF: G Ones To Watch Series](CFGOnesToWatchSeries.md)
     * [x] [Eleanor Harding](CustomTopics/CFGOnesToWatch2016/EleanorHarding.md)
-    * [ ] [Elizabeth Chesters](CustomTopics/CFGOnesToWatch2016/ElizabethChesters.md)
+    * [x] [Elizabeth Chesters](CustomTopics/CFGOnesToWatch2016/ElizabethChesters.md)
     * [ ] [Kimberley Cook](CustomTopics/CFGOnesToWatch2016/KimberleyCook.md)
     * [ ] [Gemma Milne](CustomTopics/CFGOnesToWatch2016/GemmaMilne.md)
     * [ ] [Maxine Mackintosh](CustomTopics/CFGOnesToWatch2016/MaxineMackintosh.md)
