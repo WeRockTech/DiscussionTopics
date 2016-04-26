@@ -8,6 +8,7 @@ From CodeFirstGirls Ones to Watch 2016
 
 * [Twitter](https://twitter.com/tweetanor)
 * [GitHub](https://github.com/eleanorharding)
+* [LinkedIn](https://uk.linkedin.com/in/eleanorharding)
 * [Website](http://eleanorharding.info)
 
 ## Intro
