@@ -29,3 +29,9 @@
 * Tell us sabout Acorn Aspirations
 * Are you having fun, learning, meeting new people
 * When is the next AcornHack
+
+---
+
+## Videos
+
+* [Full video](http://werocktech.com/2016/03/01/Elena-Katerina.html)
