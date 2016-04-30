@@ -14,3 +14,9 @@
     * Day job
     * Community
 * What advice would you give to other mums who want to get involved
+
+---
+
+## Videos
+
+* [Full video](http://werocktech.com/2016/03/01/Sandra-Gonzalez.html)
