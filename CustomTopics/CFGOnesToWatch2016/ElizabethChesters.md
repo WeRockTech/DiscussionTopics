@@ -32,3 +32,9 @@ From CodeFirstGirls Ones to Watch 2016
     * Women Hack For NoN-Profits (WHFNP)
     * Ladies that UX
     * ...
+
+---
+
+## Videos
+
+* [Full video](http://werocktech.com/2016/04/01/Elizabeth-Chesters.html)
