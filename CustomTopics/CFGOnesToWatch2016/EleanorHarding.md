@@ -45,3 +45,9 @@ From CodeFirstGirls Ones to Watch 2016
 * [Lean In by Sheryl Sandberg](http://www.audible.co.uk/pd/Business/Lean-In-Audiobook/B0141KMP1Q/ref=a_search_c4_1_1_srTtl?qid=1461403518&sr=1-1)
 * [The Hard Thing About Hard Things by Ben Horowitz](http://www.audible.co.uk/pd/Business/The-Hard-Thing-About-Hard-Things-Audiobook/B00I0AJ8AA/ref=a_search_c4_1_1_srTtl?qid=1461403446&sr=1-1)
 * [Black Box Thinking by Matthew Syed](http://www.audible.co.uk/pd/Business/Black-Box-Thinking-Audiobook/B00WKKAGZ2/ref=a_search_c4_1_1_srTtl?qid=1461404297&sr=1-1)
+
+---
+
+## Videos
+
+* [Full video](http://werocktech.com/2016/04/01/Eleanor-Harding.html)
