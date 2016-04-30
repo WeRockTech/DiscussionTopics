@@ -11,3 +11,9 @@
 
 * How did you hear about the event
 * Why did you want to join
+
+---
+
+## Videos
+
+* [Full video](http://werocktech.com/2016/03/01/Gerry-Ellis.html)
