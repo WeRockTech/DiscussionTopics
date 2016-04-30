@@ -15,3 +15,9 @@
 * Why did you decide to join
 * What advice would you give to others to have never been before
 * What would you like to learn?
+
+---
+
+## Videos
+
+* [Full video](http://werocktech.com/2016/03/01/Rani-Selvarajah.html)
