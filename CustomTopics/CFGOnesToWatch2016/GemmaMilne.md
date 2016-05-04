@@ -6,19 +6,19 @@ From CodeFirstGirls Ones to Watch 2016
 * [Twitter](https://twitter.com/gkmilne1)
 
 
-#Intro
+## Intro
 
-*Introduce yourself Can you tell us a bit more about what you do for a day job?
-*How did you get into the tech community? 
-*What was your turning point to get involved in the tech community? 
-*What were your biggest challenges? 
-*Are there any things you wish you'd done differently during different stages of your career? 
-*If so, what and why?? 
-*What is your greatest achievement? 
-*What advice to you have to others who want to get into technology and entrepreneurship based on your experience?
+* Introduce yourself Can you tell us a bit more about what you do for a day job?
+* How did you get into the tech community?
+* What was your turning point to get involved in the tech community?
+* What were your biggest challenges?
+* Are there any things you wish you'd done differently during different stages of your career?
+* If so, what and why??
+* What is your greatest achievement?
+* What advice to you have to others who want to get into technology and entrepreneurship based on your experience?
 
 ## Gemma Milne
 
-*It's impressive the number of different internships you completed before starting in your full time role at Ogilvy- do you think having a wide variety of experiences helped you to secure your first role?
-*In just two years you've progressed incredibly quickly in your career, can you tell us more about this journey?
-*Did you always know you were going to pursue a career in tech? If not, how did you end up in tech? 
+* It's impressive the number of different internships you completed before starting in your full time role at Ogilvy- do you think having a wide variety of experiences helped you to secure your first role?
+* In just two years you've progressed incredibly quickly in your career, can you tell us more about this journey?
+* Did you always know you were going to pursue a career in tech? If not, how did you end up in tech?
