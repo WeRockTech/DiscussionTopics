@@ -32,16 +32,17 @@ Questions / Topics to use in discussion.
     * [ ] Intro to [CodeFirstGirls](http://www.codefirstgirls.org.uk) & [OnesToWatch](http://www.codefirstgirls.org.uk/ones-to-watch-2016.html) by [Charlotte Fereday](https://twitter.com/CharlotteBRF)
     * [x] [Eleanor Harding](CustomTopics/CFGOnesToWatch2016/EleanorHarding.md) - published
     * [x] [Elizabeth Chesters](CustomTopics/CFGOnesToWatch2016/ElizabethChesters.md) - published
-    * [ ] [Kimberley Cook](CustomTopics/CFGOnesToWatch2016/KimberleyCook.md)
+    * [ ] [Kimberley Cook](CustomTopics/CFGOnesToWatch2016/KimberleyCook.md) - recording on **Sun 3rd July 12pm**
     * [ ] [Gemma Milne](CustomTopics/CFGOnesToWatch2016/GemmaMilne.md) - recording on **Sun 3rd July 1030am**
-    * [ ] [Maxine Mackintosh](CustomTopics/CFGOnesToWatch2016/MaxineMackintosh.md)
-    * [ ] [Angela Bradbury](CustomTopics/CFGOnesToWatch2016/AngelaBradbury.md)
+    * [ ] [Maxine Mackintosh](CustomTopics/CFGOnesToWatch2016/MaxineMackintosh.md) - recording on **Sun 19th June 1030am**
+    * [ ] [Angela Bradbury](CustomTopics/CFGOnesToWatch2016/AngelaBradbury.md) - recording on **Sun 12th June 1030am**
     * [ ] [Laura Lambert](CustomTopics/CFGOnesToWatch2016/LauraLambert.md)
     * [ ] [Sophie Dundovic](CustomTopics/CFGOnesToWatch2016/SophieDundovic.md)
-    * [ ] [Solveiga Pakštaitė](CustomTopics/CFGOnesToWatch2016/SolveigaPakštaitė.md)
-    * [ ] [Luciana Cas](CustomTopics/CFGOnesToWatch2016/LucianaCas.md)
+    * [ ] [Solveiga Pakštaitė](CustomTopics/CFGOnesToWatch2016/SolveigaPakštaitė.md) - recording on **Sat 18th June 1030am**
+    * [ ] [Luciana Cas](CustomTopics/CFGOnesToWatch2016/LucianaCas.md) - recording on **Sun 12th June 9am**
     * [ ] [Zara Nowell](CustomTopics/CFGOnesToWatch2016/ZaraNowell.md)
-    * [ ] [Phoebe Hugh](CustomTopics/CFGOnesToWatch2016/PhoebeHugh.md)
+    * [ ] [Phoebe Hugh](CustomTopics/CFGOnesToWatch2016/PhoebeHugh.md) - recording on **Sun 15th May 1030am**
     * [ ] [Nikhila Ravi](CustomTopics/CFGOnesToWatch2016/NikhilaRavi.md)
     * [ ] [Diana K L](CustomTopics/CFGOnesToWatch2016/DianaKL.md)
-    * [ ] [Dorothy Wingrove](CustomTopics/CFGOnesToWatch2016/DorothyWingrove.md)
+    * [ ] [Dorothy Wingrove](CustomTopics/CFGOnesToWatch2016/DorothyWingrove.md) - recording on **Sat 2nd July 1030am**
+    * [ ] [Imara Speek](CustomTopics/CFGOnesToWatch2016/ImaraSpeek.md)
