@@ -15,20 +15,20 @@ Questions / Topics to use in discussion.
 ## Discussion Topics & Series
 
 * Teens Rock Tech Series
-    * [x] [Katerina & Elena](CustomTopics/TeensRockTech/KaterinaElena.md)
+    * [x] [Katerina & Elena](CustomTopics/TeensRockTech/KaterinaElena.md) - published
 
 * Mums Rock Tech Series
-    * [x] [Sandra Gonzalez](CustomTopics/MumsRockTech/SandraGonzalez.md)
+    * [x] [Sandra Gonzalez](CustomTopics/MumsRockTech/SandraGonzalez.md) - published
 
 * [Women Rock Tech Series](WomenRockTechSeries.md)
-    * [x] [Gerri Ellis](CustomTopics/WomenRockTech/GerriEllis.md)
-    * [x] [Rani Selvarajah](CustomTopics/WomenRockTech/RaniSelvarajah.md)
+    * [x] [Gerri Ellis](CustomTopics/WomenRockTech/GerriEllis.md) - published
+    * [x] [Rani Selvarajah](CustomTopics/WomenRockTech/RaniSelvarajah.md) - published
     * [x] [Krissy Rabino](CustomTopics/WomenRockTech/KrissyRabino.md) - Recorded
     * [x] [Marta Kutt](CustomTopics/WomenRockTech/MartaKutt.md) - Recorded
 
 * [CF: G Ones To Watch Series](CFGOnesToWatchSeries.md)
-    * [x] [Eleanor Harding](CustomTopics/CFGOnesToWatch2016/EleanorHarding.md)
-    * [x] [Elizabeth Chesters](CustomTopics/CFGOnesToWatch2016/ElizabethChesters.md)
+    * [x] [Eleanor Harding](CustomTopics/CFGOnesToWatch2016/EleanorHarding.md) - published
+    * [x] [Elizabeth Chesters](CustomTopics/CFGOnesToWatch2016/ElizabethChesters.md) - published
     * [ ] [Kimberley Cook](CustomTopics/CFGOnesToWatch2016/KimberleyCook.md)
     * [ ] [Gemma Milne](CustomTopics/CFGOnesToWatch2016/GemmaMilne.md) - recording on **Sun 3rd July 1030am**
     * [ ] [Maxine Mackintosh](CustomTopics/CFGOnesToWatch2016/MaxineMackintosh.md)
