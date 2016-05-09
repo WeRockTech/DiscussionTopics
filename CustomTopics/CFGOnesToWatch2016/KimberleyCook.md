@@ -9,4 +9,4 @@ From CodeFirstGirls Ones to Watch 2016
 
 ## Kimberley Cook
 
-* Codebar
+* codebar
