@@ -19,7 +19,8 @@ From CodeFirstGirls Ones to Watch 2016
 ## Angela Bradbury
 
 * CF: G Ones to Watch 2016
-* You originally studied Natural Sciences at University before embarking on your career in tech- how did you make this change? *Was tech an area you were always interested in pursuing?
+* You originally studied Natural Sciences at University before embarking on your career in tech- how did you make this change? 
+* Was tech an area you were always interested in pursuing?
 * Over the last few years you made quite a leap from being a consultant to your current role as Director at Chime Advisors- how can you tell us more about how you achieved so much in a short amount of time?
 * If someone was interested in a career in tech would you recommend consultancy as a good entry way in? What would your advice be?
 ...
