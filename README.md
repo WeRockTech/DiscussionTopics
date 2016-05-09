@@ -23,8 +23,8 @@ Questions / Topics to use in discussion.
 * [Women Rock Tech Series](WomenRockTechSeries.md)
     * [x] [Gerri Ellis](CustomTopics/WomenRockTech/GerriEllis.md)
     * [x] [Rani Selvarajah](CustomTopics/WomenRockTech/RaniSelvarajah.md)
-    * [x] [Krissy Rabino](CustomTopics/WomenRockTech/KrissyRabino.md)
-    * [x] [Marta Kutt](CustomTopics/WomenRockTech/MartaKutt.md)
+    * [x] [Krissy Rabino](CustomTopics/WomenRockTech/KrissyRabino.md) - Recorded
+    * [x] [Marta Kutt](CustomTopics/WomenRockTech/MartaKutt.md) - Recorded
 
 * [CF: G Ones To Watch Series](CFGOnesToWatchSeries.md)
     * [x] [Eleanor Harding](CustomTopics/CFGOnesToWatch2016/EleanorHarding.md)
