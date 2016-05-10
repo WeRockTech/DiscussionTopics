@@ -22,3 +22,9 @@ From Twitter bio
 * New to presenting, workshops & Ruby
     * New to Ruby
 * Encouraging dance friends to come to tech events
+
+---
+
+# Videos
+
+* [Teaser](https://www.youtube.com/watch?v=2XCV5Lt-kcg)
