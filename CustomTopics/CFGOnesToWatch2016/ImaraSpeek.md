@@ -6,7 +6,7 @@ From CodeFirstGirls Ones to Watch 2016
 * [Twitter](https://twitter.com/imaraspeek)
 
 
-# Questions
+# Intro
 
 * Introduce yourself Can you tell us a bit more about what you do for a day job?
 
@@ -25,7 +25,7 @@ From CodeFirstGirls Ones to Watch 2016
 * What advice to you have to others who want to get into technology and entrepreneurship based on your experience?
 
 
-# Imara Speek
+# Questions
 
 * Can you tell us more about how design had led you to a career in tech?
 
