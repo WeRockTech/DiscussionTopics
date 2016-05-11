@@ -33,4 +33,6 @@ From CodeFirstGirls Ones to Watch 2016
 
 * Can you tell us about some of the most exciting projects you've worked on to date?
 
+* You're originally from Brazil and currently working in Manchester. What's the tech scene like in both of these places? 
+
 * Where do you think the opportunities are right now in tech? What are the hottest trends/areas of most opportunity?
