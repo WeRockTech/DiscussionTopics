@@ -31,7 +31,7 @@ From CodeFirstGirls Ones to Watch 2016
 * What advice to you have to others who want to get into technology and entrepreneurship based on your experience?
 
 
-## Kimberley Cook
+## Questions
 
 * You've been one of the driving forces behind codebar and are also involved in organising a number of other workshops for under-represented groups in tech. How did you begin getting involved in these groups and why are they important to you?
 
