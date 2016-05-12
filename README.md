@@ -46,3 +46,11 @@ Questions / Topics to use in discussion.
     * [ ] [Diana K L](CustomTopics/CFGOnesToWatch2016/DianaKL.md)
     * [ ] [Dorothy Wingrove](CustomTopics/CFGOnesToWatch2016/DorothyWingrove.md) - recording on **Sat 2nd July 1030am**
     * [ ] [Imara Speek](CustomTopics/CFGOnesToWatch2016/ImaraSpeek.md)
+
+---
+
+## What to get involved
+
+Contact us on:
+
+* [Twitter](http://twitter.com/WeRockTech)
