@@ -54,3 +54,4 @@ Questions / Topics to use in discussion.
 Contact us on:
 
 * [Twitter](http://twitter.com/WeRockTech)
+* [GitHub Issues](https://github.com/WeRockTech/DiscussionTopics/issues)
