@@ -41,7 +41,7 @@ Questions / Topics to use in discussion.
     * [ ] [Solveiga Pakštaitė](CustomTopics/CFGOnesToWatch2016/SolveigaPakštaitė.md) - recording on **Sat 18th June 1030am**
     * [ ] [Luciana Cas](CustomTopics/CFGOnesToWatch2016/LucianaCas.md) - recording on **Sun 12th June 9am**
     * [ ] [Zara Nowell](CustomTopics/CFGOnesToWatch2016/ZaraNowell.md)
-    * [ ] [Phoebe Hugh](CustomTopics/CFGOnesToWatch2016/PhoebeHugh.md) - recording on **Sun 15th May 1030am**
+    * [ ] [Phoebe Hugh](CustomTopics/CFGOnesToWatch2016/PhoebeHugh.md) - to be rescheduled
     * [ ] [Nikhila Ravi](CustomTopics/CFGOnesToWatch2016/NikhilaRavi.md)
     * [ ] [Diana K L](CustomTopics/CFGOnesToWatch2016/DianaKL.md)
     * [ ] [Dorothy Wingrove](CustomTopics/CFGOnesToWatch2016/DorothyWingrove.md) - recording on **Sat 2nd July 1030am**
