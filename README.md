@@ -25,8 +25,8 @@ Questions / Topics to use in discussion.
 * [Women Rock Tech Series](WomenRockTechSeries.md)
     * [x] [Gerri Ellis](CustomTopics/WomenRockTech/GerriEllis.md) - published
     * [x] [Rani Selvarajah](CustomTopics/WomenRockTech/RaniSelvarajah.md) - published
-    * [x] [Krissy Rabino](CustomTopics/WomenRockTech/KrissyRabino.md) - recorded, in editing
-    * [x] [Marta Kutt](CustomTopics/WomenRockTech/MartaKutt.md) - recorded, in editing
+    * [x] [Krissy Rabino](CustomTopics/WomenRockTech/KrissyRabino.md) - published
+    * [x] [Marta Kutt](CustomTopics/WomenRockTech/MartaKutt.md) - published
 
 * [CF: G Ones To Watch Series](CFGOnesToWatchSeries.md)
     * [ ] Intro to [CodeFirstGirls](http://www.codefirstgirls.org.uk) & [OnesToWatch](http://www.codefirstgirls.org.uk/ones-to-watch-2016.html) by [Charlotte Fereday](https://twitter.com/CharlotteBRF)
