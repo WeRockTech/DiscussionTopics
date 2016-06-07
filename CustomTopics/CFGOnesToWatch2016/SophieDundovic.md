@@ -20,4 +20,4 @@ From CodeFirstGirls Ones to Watch 2016
 * Sophie, whilst studing at University you originally completed a BA in Mathematics & Social Anthropology. How did you become interested in tech having studied subjects that are less conventional for the sector?
 * You've worked in a number of different roles, from a researcher to a risk advisor before founding Tyto and becoming COO of Parasym Health- can you tell us more about these companies and your journey as a founder?
 * You're currently Programmes Coordinator at Oxygen Startups. Could you describe your role and the work that Oxygen Startups does?
-* Having worked with many startups, what do you think are the qualities that make a startup successful? 
+* Being an alumnus of EF and having worked with many startups over the years, what do you think are the qualities that make a startup successful? 
