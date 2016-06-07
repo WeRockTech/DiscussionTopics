@@ -21,5 +21,5 @@
 * What's the journey been like since your original launch of Bump Mark to now?
 * How has your work as a researcher and consultant, alongside your studies, informed the work you do with Bump Mark and Design by Sol?
 * You've won over 11 awards and are a regular speaker at various events. Do you see yourself as a mentor for women working in design and technology?
-* 
+
 
