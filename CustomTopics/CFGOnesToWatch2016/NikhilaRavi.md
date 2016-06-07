@@ -16,7 +16,7 @@
 * What advice to you have to others who want to get into technology and entrepreneurship based on your experience?
 
 # Questions
-*Nikki,before embarking on a career in tech you worked as a researcher at Harvard University and completed a number of training schemes and fellowships from India to Australia. Can you tell us more about your journey into tech & how you decided this was the sector you wanted to work in?
+* Nikki,before embarking on a career in tech you worked as a researcher at Harvard University and completed a number of training schemes and fellowships from India to Australia. Can you tell us more about your journey into tech & how you decided this was the sector you wanted to work in?
 * After completed your CF: G course and Masters at Cambridge you went on to do the Founders & Coders CIC bootcamp. How did you find this experience?
 * Can you tell us more about your transition to become a full time web developer with Founders & Coders CIC and DWYL, and the projects you've been working on since then? 
 * Since graduating from Founders & Coders you've helped set up Node Girls, what drove you to build the organisation?
