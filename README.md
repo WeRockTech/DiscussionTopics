@@ -27,7 +27,7 @@ Questions / Topics to use in discussion.
     * [x] [Rani Selvarajah](CustomTopics/WomenRockTech/RaniSelvarajah.md) - published
     * [x] [Krissy Rabino](CustomTopics/WomenRockTech/KrissyRabino.md) - published
     * [x] [Marta Kutt](CustomTopics/WomenRockTech/MartaKutt.md) - published
-    * [ ] Tanya Powell - recording on **Sun 19th June 12pm**
+    * [ ] [Tanya Powell](CustomTopics/WomenRockTech/TanyaPowell.md) - recording on **Sun 19th June 12pm**
 
 * [CF: G Ones To Watch Series](CFGOnesToWatchSeries.md)
     * [ ] Intro to [CodeFirstGirls](http://www.codefirstgirls.org.uk) & [OnesToWatch](http://www.codefirstgirls.org.uk/ones-to-watch-2016.html) by [Charlotte Fereday](https://twitter.com/CharlotteBRF)
