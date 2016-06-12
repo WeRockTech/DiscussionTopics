@@ -31,6 +31,10 @@ From CodeFirstGirls Ones to Watch 2016
 
 * What advice would you give to someone who is interested in tech but, like you, comes from a different background/area of study?
 
+* You have a passion for InfoSec and VR
+  * What are these?
+  * And why?
+
 * Can you tell us about some of the most exciting projects you've worked on to date?
 
 * You're originally from Brazil and currently working in Manchester. What's the tech scene like in both of these places? 
