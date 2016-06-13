@@ -36,11 +36,11 @@ Questions / Topics to use in discussion.
     * [ ] [Kimberley Cook](CustomTopics/CFGOnesToWatch2016/KimberleyCook.md) - recording on **Sun 3rd July 12pm**
     * [ ] [Gemma Milne](CustomTopics/CFGOnesToWatch2016/GemmaMilne.md) - recording on **Sun 3rd July 1030am**
     * [ ] [Maxine Mackintosh](CustomTopics/CFGOnesToWatch2016/MaxineMackintosh.md) - recording on **Sun 19th June 1030am**
-    * [ ] [Angela Bradbury](CustomTopics/CFGOnesToWatch2016/AngelaBradbury.md) - recording on **Sun 12th June 1030am**
+    * [x] [Angela Bradbury](CustomTopics/CFGOnesToWatch2016/AngelaBradbury.md) - in post editing
     * [ ] [Laura Lambert](CustomTopics/CFGOnesToWatch2016/LauraLambert.md)
     * [ ] [Sophie Dundovic](CustomTopics/CFGOnesToWatch2016/SophieDundovic.md)
     * [ ] [Solveiga Pakštaitė](CustomTopics/CFGOnesToWatch2016/SolveigaPakštaitė.md) - recording on **Sat 18th June 1030am**
-    * [ ] [Luciana Cas](CustomTopics/CFGOnesToWatch2016/LucianaCas.md) - recording on **Sun 12th June 9am**
+    * [ ] [Luciana Cas](CustomTopics/CFGOnesToWatch2016/LucianaCas.md) - to be rescheduled
     * [ ] [Zara Nowell](CustomTopics/CFGOnesToWatch2016/ZaraNowell.md)
     * [ ] [Phoebe Hugh](CustomTopics/CFGOnesToWatch2016/PhoebeHugh.md) - to be rescheduled
     * [ ] [Nikhila Ravi](CustomTopics/CFGOnesToWatch2016/NikhilaRavi.md)
