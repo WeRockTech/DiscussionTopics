@@ -22,4 +22,5 @@ From Twitter bio
 * Tech communities you are active in
 * New to presenting, workshops
     * New to Java & Android
+* Passionate about Diversity & not just about gender
 * ...
