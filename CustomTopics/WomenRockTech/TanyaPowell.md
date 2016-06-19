@@ -23,4 +23,5 @@ From Twitter bio
 * New to presenting, workshops
     * New to Java & Android
 * Passionate about Diversity & not just about gender
+* Do you have a mentor
 * ...
