@@ -35,7 +35,7 @@ Questions / Topics to use in discussion.
     * [x] [Elizabeth Chesters](CustomTopics/CFGOnesToWatch2016/ElizabethChesters.md) - published
     * [ ] [Kimberley Cook](CustomTopics/CFGOnesToWatch2016/KimberleyCook.md) - recording on **Sun 3rd July 12pm**
     * [ ] [Gemma Milne](CustomTopics/CFGOnesToWatch2016/GemmaMilne.md) - recording on **Sun 3rd July 1030am**
-    * [ ] [Maxine Mackintosh](CustomTopics/CFGOnesToWatch2016/MaxineMackintosh.md) - recording on **Sun 19th June 1030am**
+    * [x] [Maxine Mackintosh](CustomTopics/CFGOnesToWatch2016/MaxineMackintosh.md) - in post editing
     * [x] [Angela Bradbury](CustomTopics/CFGOnesToWatch2016/AngelaBradbury.md) - in post editing
     * [ ] [Laura Lambert](CustomTopics/CFGOnesToWatch2016/LauraLambert.md)
     * [ ] [Sophie Dundovic](CustomTopics/CFGOnesToWatch2016/SophieDundovic.md)
