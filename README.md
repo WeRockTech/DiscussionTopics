@@ -45,7 +45,7 @@ Questions / Topics to use in discussion.
     * [ ] [Phoebe Hugh](CustomTopics/CFGOnesToWatch2016/PhoebeHugh.md) - to be rescheduled
     * [ ] [Nikhila Ravi](CustomTopics/CFGOnesToWatch2016/NikhilaRavi.md)
     * [ ] [Diana K L](CustomTopics/CFGOnesToWatch2016/DianaKL.md)
-    * [ ] [Dorothy Wingrove](CustomTopics/CFGOnesToWatch2016/DorothyWingrove.md) - recording on **Sat 2nd July 1030am**
+    * [ ] [Dorothy Wingrove](CustomTopics/CFGOnesToWatch2016/DorothyWingrove.md) - to be rescheduled
     * [ ] [Imara Speek](CustomTopics/CFGOnesToWatch2016/ImaraSpeek.md)
 
 ---
