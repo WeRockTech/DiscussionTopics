@@ -30,7 +30,7 @@ Questions / Topics to use in discussion.
     * [x] [Tanya Powell](CustomTopics/WomenRockTech/TanyaPowell.md) - in post editing
 
 * [CF: G Ones To Watch Series](CFGOnesToWatchSeries.md)
-    * [ ] Intro to [CodeFirstGirls](http://www.codefirstgirls.org.uk) & [OnesToWatch](http://www.codefirstgirls.org.uk/ones-to-watch-2016.html) by [Charlotte Fereday](https://twitter.com/CharlotteBRF)
+    * [x] Intro to [CodeFirstGirls](http://www.codefirstgirls.org.uk) & [OnesToWatch](http://www.codefirstgirls.org.uk/ones-to-watch-2016.html) by [Charlotte Fereday](https://twitter.com/CharlotteBRF)
     * [x] [Eleanor Harding](CustomTopics/CFGOnesToWatch2016/EleanorHarding.md) - published
     * [x] [Elizabeth Chesters](CustomTopics/CFGOnesToWatch2016/ElizabethChesters.md) - published
     * [x] [Kimberley Cook](CustomTopics/CFGOnesToWatch2016/KimberleyCook.md) - in post editing
