@@ -33,8 +33,8 @@ Questions / Topics to use in discussion.
     * [ ] Intro to [CodeFirstGirls](http://www.codefirstgirls.org.uk) & [OnesToWatch](http://www.codefirstgirls.org.uk/ones-to-watch-2016.html) by [Charlotte Fereday](https://twitter.com/CharlotteBRF)
     * [x] [Eleanor Harding](CustomTopics/CFGOnesToWatch2016/EleanorHarding.md) - published
     * [x] [Elizabeth Chesters](CustomTopics/CFGOnesToWatch2016/ElizabethChesters.md) - published
-    * [ ] [Kimberley Cook](CustomTopics/CFGOnesToWatch2016/KimberleyCook.md) - in post editing
-    * [ ] [Gemma Milne](CustomTopics/CFGOnesToWatch2016/GemmaMilne.md) - in post editing
+    * [x] [Kimberley Cook](CustomTopics/CFGOnesToWatch2016/KimberleyCook.md) - in post editing
+    * [x] [Gemma Milne](CustomTopics/CFGOnesToWatch2016/GemmaMilne.md) - in post editing
     * [x] [Maxine Mackintosh](CustomTopics/CFGOnesToWatch2016/MaxineMackintosh.md) - in post editing
     * [x] [Angela Bradbury](CustomTopics/CFGOnesToWatch2016/AngelaBradbury.md) - in post editing
     * [ ] [Laura Lambert](CustomTopics/CFGOnesToWatch2016/LauraLambert.md)
