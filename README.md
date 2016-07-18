@@ -39,7 +39,7 @@ Questions / Topics to use in discussion.
     * [x] [Angela Bradbury](CustomTopics/CFGOnesToWatch2016/AngelaBradbury.md) - in post editing
     * [ ] [Laura Lambert](CustomTopics/CFGOnesToWatch2016/LauraLambert.md)
     * [ ] [Sophie Dundovic](CustomTopics/CFGOnesToWatch2016/SophieDundovic.md)
-    * [ ] [Solveiga Pakštaitė](CustomTopics/CFGOnesToWatch2016/SolveigaPakštaitė.md) - recording on **Sat 17th July**
+    * [ ] [Solveiga Pakštaitė](CustomTopics/CFGOnesToWatch2016/SolveigaPakštaitė.md) - recording on **Mon 18th July**
     * [ ] [Luciana Cas](CustomTopics/CFGOnesToWatch2016/LucianaCas.md) - to be rescheduled
     * [ ] [Zara Nowell](CustomTopics/CFGOnesToWatch2016/ZaraNowell.md)
     * [ ] [Phoebe Hugh](CustomTopics/CFGOnesToWatch2016/PhoebeHugh.md) - to be rescheduled
