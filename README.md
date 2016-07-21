@@ -37,16 +37,16 @@ Questions / Topics to use in discussion.
     * [x] [Gemma Milne](CustomTopics/CFGOnesToWatch2016/GemmaMilne.md) - in post editing
     * [x] [Maxine Mackintosh](CustomTopics/CFGOnesToWatch2016/MaxineMackintosh.md) - in post editing
     * [x] [Angela Bradbury](CustomTopics/CFGOnesToWatch2016/AngelaBradbury.md) - in post editing
-    * [ ] [Laura Lambert](CustomTopics/CFGOnesToWatch2016/LauraLambert.md)
-    * [ ] [Sophie Dundovic](CustomTopics/CFGOnesToWatch2016/SophieDundovic.md)
+    * [ ] [Laura Lambert](CustomTopics/CFGOnesToWatch2016/LauraLambert.md) - to be scheduled
+    * [ ] [Sophie Dundovic](CustomTopics/CFGOnesToWatch2016/SophieDundovic.md) - to be scheduled
     * [x] [Solveiga Pakštaitė](CustomTopics/CFGOnesToWatch2016/SolveigaPakštaitė.md) - in post editing
     * [ ] [Luciana Cas](CustomTopics/CFGOnesToWatch2016/LucianaCas.md) - to be rescheduled
-    * [ ] [Zara Nowell](CustomTopics/CFGOnesToWatch2016/ZaraNowell.md)
+    * [ ] [Zara Nowell](CustomTopics/CFGOnesToWatch2016/ZaraNowell.md) - to be scheduled
     * [ ] [Phoebe Hugh](CustomTopics/CFGOnesToWatch2016/PhoebeHugh.md) - to be rescheduled
-    * [ ] [Nikhila Ravi](CustomTopics/CFGOnesToWatch2016/NikhilaRavi.md)
-    * [ ] [Diana K L](CustomTopics/CFGOnesToWatch2016/DianaKL.md)
+    * [ ] [Nikhila Ravi](CustomTopics/CFGOnesToWatch2016/NikhilaRavi.md) - to be scheduled
+    * [ ] [Diana K L](CustomTopics/CFGOnesToWatch2016/DianaKL.md) - to be scheduled
     * [ ] [Dorothy Wingrove](CustomTopics/CFGOnesToWatch2016/DorothyWingrove.md) - to be rescheduled
-    * [ ] [Imara Speek](CustomTopics/CFGOnesToWatch2016/ImaraSpeek.md)
+    * [ ] [Imara Speek](CustomTopics/CFGOnesToWatch2016/ImaraSpeek.md) - to be scheduled
 
 ---
 
