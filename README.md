@@ -22,14 +22,14 @@ Questions / Topics to use in discussion.
 * Mums Rock Tech Series
     * [x] [Sandra Gonzalez](CustomTopics/MumsRockTech/SandraGonzalez.md) - published
 
-* [Women Rock Tech Series](WomenRockTechSeries.md)
+* Women Rock Tech Series
     * [x] [Gerri Ellis](CustomTopics/WomenRockTech/GerriEllis.md) - published
     * [x] [Rani Selvarajah](CustomTopics/WomenRockTech/RaniSelvarajah.md) - published
     * [x] [Krissy Rabino](CustomTopics/WomenRockTech/KrissyRabino.md) - published
     * [x] [Marta Kutt](CustomTopics/WomenRockTech/MartaKutt.md) - published
     * [x] [Tanya Powell](CustomTopics/WomenRockTech/TanyaPowell.md) - in post editing
 
-* [CF: G Ones To Watch Series](CFGOnesToWatchSeries.md)
+* CF: G Ones To Watch Series
     * [x] Intro to [CodeFirstGirls](http://www.codefirstgirls.org.uk) & [OnesToWatch](http://www.codefirstgirls.org.uk/ones-to-watch-2016.html) by [Charlotte Fereday](https://twitter.com/CharlotteBRF)
     * [x] [Eleanor Harding](CustomTopics/CFGOnesToWatch2016/EleanorHarding.md) - published
     * [x] [Elizabeth Chesters](CustomTopics/CFGOnesToWatch2016/ElizabethChesters.md) - published
