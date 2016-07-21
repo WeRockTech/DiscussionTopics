@@ -48,6 +48,9 @@ Questions / Topics to use in discussion.
     * [ ] [Dorothy Wingrove](CustomTopics/CFGOnesToWatch2016/DorothyWingrove.md) - to be rescheduled
     * [ ] [Imara Speek](CustomTopics/CFGOnesToWatch2016/ImaraSpeek.md) - to be scheduled
 
+* EmpowerHack
+   * [ ] Introduction 
+
 ---
 
 ## What to get involved
