@@ -54,6 +54,7 @@ Questions / Topics to use in discussion.
 * HackBrexit
    * [ ] Intro
    * [x] Project intros
+   * [ ] Project presentations
 
 ---
 
