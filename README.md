@@ -14,7 +14,7 @@ Questions / Topics to use in discussion.
 
 ## Discussion Topics & Series
 
-* [ ] Intro to WeRockTech by [Eddie Jaoude](http://twitter.com/eddiejaoude)
+* [x] Intro to WeRockTech by [Eddie Jaoude](http://twitter.com/eddiejaoude)
 
 * Teens Rock Tech Series
     * [x] [Katerina & Elena](CustomTopics/TeensRockTech/KaterinaElena.md) - published
