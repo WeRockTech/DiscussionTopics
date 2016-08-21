@@ -45,7 +45,7 @@ Questions / Topics to use in discussion.
     * [ ] [Phoebe Hugh](CustomTopics/CFGOnesToWatch2016/PhoebeHugh.md) - to be rescheduled
     * [ ] [Nikhila Ravi](CustomTopics/CFGOnesToWatch2016/NikhilaRavi.md) - to be scheduled
     * [ ] [Diana K L](CustomTopics/CFGOnesToWatch2016/DianaKL.md) - to be scheduled
-    * [ ] [Dorothy Wingrove](CustomTopics/CFGOnesToWatch2016/DorothyWingrove.md) - to be rescheduled
+    * [ ] [Dorothy Wingrove](CustomTopics/CFGOnesToWatch2016/DorothyWingrove.md) - 21st August 2016
     * [ ] [Imara Speek](CustomTopics/CFGOnesToWatch2016/ImaraSpeek.md) - to be scheduled
 
 * EmpowerHack
