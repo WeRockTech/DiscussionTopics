@@ -49,7 +49,7 @@ Questions / Topics to use in discussion.
     * [ ] [Imara Speek](CustomTopics/CFGOnesToWatch2016/ImaraSpeek.md) - to be scheduled
 
 * EmpowerHack
-   * [ ] Introduction 
+   * [x] Introduction 
 
 ---
 
