@@ -51,6 +51,10 @@ Questions / Topics to use in discussion.
 * EmpowerHack
    * [x] Introduction 
 
+* HackBrexit
+   * [ ] Intro
+   * [x] Project intros
+
 ---
 
 ## What to get involved
