@@ -36,7 +36,7 @@ Questions / Topics to use in discussion.
     * [x] [Kimberley Cook](CustomTopics/CFGOnesToWatch2016/KimberleyCook.md) - in post editing
     * [x] [Gemma Milne](CustomTopics/CFGOnesToWatch2016/GemmaMilne.md) - in post editing
     * [x] [Maxine Mackintosh](CustomTopics/CFGOnesToWatch2016/MaxineMackintosh.md) - in post editing
-    * [x] [Angela Bradbury](CustomTopics/CFGOnesToWatch2016/AngelaBradbury.md) - in post editing
+    * [x] [Angela Bradbury](CustomTopics/CFGOnesToWatch2016/AngelaBradbury.md) - published
     * [ ] [Laura Lambert](CustomTopics/CFGOnesToWatch2016/LauraLambert.md) - to be scheduled
     * [ ] [Sophie Dundovic](CustomTopics/CFGOnesToWatch2016/SophieDundovic.md) - to be scheduled
     * [x] [Solveiga Pakštaitė](CustomTopics/CFGOnesToWatch2016/SolveigaPakštaitė.md) - in post editing
