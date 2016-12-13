@@ -50,7 +50,7 @@ Questions / Topics to use in discussion.
 
 * EmpowerHack
    * [x] Introduction 
-   * [ ] Project intros
+   * [x] Project intros
 
 * HackBrexit
    * [ ] Intro
