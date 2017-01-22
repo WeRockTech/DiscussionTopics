@@ -18,7 +18,7 @@ From CodeFirstGirls Ones to Watch 2016
 
 * Are there any things you wish you'd done differently during different stages of your career?
 
-* If so, what and why??
+   * If so, what and why??
 
 * What is your greatest achievement?
 
