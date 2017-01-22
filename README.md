@@ -39,7 +39,7 @@ Questions / Topics to use in discussion.
     * [x] [Angela Bradbury](CustomTopics/CFGOnesToWatch2016/AngelaBradbury.md) - published
     * [ ] [Laura Lambert](CustomTopics/CFGOnesToWatch2016/LauraLambert.md) - to be scheduled
     * [ ] [Sophie Dundovic](CustomTopics/CFGOnesToWatch2016/SophieDundovic.md) - to be scheduled
-    * [x] [Solveiga Pakštaitė](CustomTopics/CFGOnesToWatch2016/SolveigaPakštaitė.md) - in post editing
+    * [x] [Solveiga Pakštaitė](CustomTopics/CFGOnesToWatch2016/SolveigaPakštaitė.md) - published
     * [ ] [Luciana Cas](CustomTopics/CFGOnesToWatch2016/LucianaCas.md) - 28th Jan 2017
     * [ ] [Zara Nowell](CustomTopics/CFGOnesToWatch2016/ZaraNowell.md) - to be scheduled
     * [ ] [Phoebe Hugh](CustomTopics/CFGOnesToWatch2016/PhoebeHugh.md) - to be rescheduled
