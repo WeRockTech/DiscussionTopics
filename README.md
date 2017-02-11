@@ -4,7 +4,7 @@ Questions / Topics to use in discussion.
 
 ## Format
 
-* ~30 minutes
+* ~30-60 minutes
 * Google Hangout on Air
 * Timeline
     * Introduction
