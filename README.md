@@ -55,7 +55,7 @@ Questions / Topics to use in discussion.
 * HackBrexit
    * [x] Intro
    * [x] Project intros
-   * [ ] ~~Project presentations~~ Quality of recording was not great
+   * [ ] ~~Project presentations~~ *(Quality of recording was not great)*
 
 ---
 
