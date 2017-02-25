@@ -17,36 +17,36 @@ Questions / Topics to use in discussion.
 * [x] Intro to WeRockTech by [Eddie Jaoude](http://twitter.com/eddiejaoude)
 
 * Teens Rock Tech Series
-    * [x] [Katerina & Elena](CustomTopics/TeensRockTech/KaterinaElena.md) - published
+    * [x] [Katerina & Elena](CustomTopics/TeensRockTech/KaterinaElena.md)
 
 * Mums Rock Tech Series
-    * [x] [Sandra Gonzalez](CustomTopics/MumsRockTech/SandraGonzalez.md) - published
+    * [x] [Sandra Gonzalez](CustomTopics/MumsRockTech/SandraGonzalez.md)
 
 * Women Rock Tech Series
-    * [x] [Gerri Ellis](CustomTopics/WomenRockTech/GerriEllis.md) - published
-    * [x] [Rani Selvarajah](CustomTopics/WomenRockTech/RaniSelvarajah.md) - published
-    * [x] [Krissy Rabino](CustomTopics/WomenRockTech/KrissyRabino.md) - published
-    * [x] [Marta Kutt](CustomTopics/WomenRockTech/MartaKutt.md) - published
-    * [x] [Tanya Powell](CustomTopics/WomenRockTech/TanyaPowell.md) - in post editing
+    * [x] [Gerri Ellis](CustomTopics/WomenRockTech/GerriEllis.md)
+    * [x] [Rani Selvarajah](CustomTopics/WomenRockTech/RaniSelvarajah.md)
+    * [x] [Krissy Rabino](CustomTopics/WomenRockTech/KrissyRabino.md)
+    * [x] [Marta Kutt](CustomTopics/WomenRockTech/MartaKutt.md)
+    * [x] [Tanya Powell](CustomTopics/WomenRockTech/TanyaPowell.md)
 
 * CF: G Ones To Watch Series
     * [x] Intro to [CodeFirstGirls](http://www.codefirstgirls.org.uk) & [OnesToWatch](http://www.codefirstgirls.org.uk/ones-to-watch-2016.html) by [Charlotte Fereday](https://twitter.com/CharlotteBRF)
-    * [x] [Eleanor Harding](CustomTopics/CFGOnesToWatch2016/EleanorHarding.md) - published
-    * [x] [Elizabeth Chesters](CustomTopics/CFGOnesToWatch2016/ElizabethChesters.md) - published
-    * [x] [Kimberley Cook](CustomTopics/CFGOnesToWatch2016/KimberleyCook.md) - published
-    * [x] [Gemma Milne](CustomTopics/CFGOnesToWatch2016/GemmaMilne.md) - published
-    * [x] [Maxine Mackintosh](CustomTopics/CFGOnesToWatch2016/MaxineMackintosh.md) - published
-    * [x] [Angela Bradbury](CustomTopics/CFGOnesToWatch2016/AngelaBradbury.md) - published
-    * [ ] [Laura Lambert](CustomTopics/CFGOnesToWatch2016/LauraLambert.md) - to be scheduled
-    * [ ] [Sophie Dundovic](CustomTopics/CFGOnesToWatch2016/SophieDundovic.md) - to be scheduled
-    * [x] [Solveiga Pakštaitė](CustomTopics/CFGOnesToWatch2016/SolveigaPakštaitė.md) - published
-    * [ ] [Luciana Cas](CustomTopics/CFGOnesToWatch2016/LucianaCas.md) - in post production
-    * [ ] [Zara Nowell](CustomTopics/CFGOnesToWatch2016/ZaraNowell.md) - to be scheduled
-    * [ ] [Phoebe Hugh](CustomTopics/CFGOnesToWatch2016/PhoebeHugh.md) - to be rescheduled
-    * [ ] [Nikhila Ravi](CustomTopics/CFGOnesToWatch2016/NikhilaRavi.md) - to be scheduled
-    * [ ] [Diana K L](CustomTopics/CFGOnesToWatch2016/DianaKL.md) - to be scheduled
-    * [x] [Dorothy Wingrove](CustomTopics/CFGOnesToWatch2016/DorothyWingrove.md) - published
-    * [ ] [Imara Speek](CustomTopics/CFGOnesToWatch2016/ImaraSpeek.md) - to be scheduled
+    * [x] [Eleanor Harding](CustomTopics/CFGOnesToWatch2016/EleanorHarding.md)
+    * [x] [Elizabeth Chesters](CustomTopics/CFGOnesToWatch2016/ElizabethChesters.md)
+    * [x] [Kimberley Cook](CustomTopics/CFGOnesToWatch2016/KimberleyCook.md)
+    * [x] [Gemma Milne](CustomTopics/CFGOnesToWatch2016/GemmaMilne.md)
+    * [x] [Maxine Mackintosh](CustomTopics/CFGOnesToWatch2016/MaxineMackintosh.md)
+    * [x] [Angela Bradbury](CustomTopics/CFGOnesToWatch2016/AngelaBradbury.md)
+    * [ ] [Laura Lambert](CustomTopics/CFGOnesToWatch2016/LauraLambert.md)
+    * [ ] [Sophie Dundovic](CustomTopics/CFGOnesToWatch2016/SophieDundovic.md)
+    * [x] [Solveiga Pakštaitė](CustomTopics/CFGOnesToWatch2016/SolveigaPakštaitė.md)
+    * [ ] [Luciana Cas](CustomTopics/CFGOnesToWatch2016/LucianaCas.md)
+    * [ ] [Zara Nowell](CustomTopics/CFGOnesToWatch2016/ZaraNowell.md)
+    * [ ] [Phoebe Hugh](CustomTopics/CFGOnesToWatch2016/PhoebeHugh.md)
+    * [ ] [Nikhila Ravi](CustomTopics/CFGOnesToWatch2016/NikhilaRavi.md)
+    * [ ] [Diana K L](CustomTopics/CFGOnesToWatch2016/DianaKL.md)
+    * [x] [Dorothy Wingrove](CustomTopics/CFGOnesToWatch2016/DorothyWingrove.md)
+    * [ ] [Imara Speek](CustomTopics/CFGOnesToWatch2016/ImaraSpeek.md)
 
 * EmpowerHack
    * [x] Introduction 
