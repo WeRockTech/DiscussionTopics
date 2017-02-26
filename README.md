@@ -29,7 +29,7 @@ Questions / Topics to use in discussion.
     * [x] [Marta Kutt](CustomTopics/WomenRockTech/MartaKutt.md)
     * [x] [Tanya Powell](CustomTopics/WomenRockTech/TanyaPowell.md)
 
-* CF: G Ones To Watch Series
+* CF: G Ones To Watch Series 2016
     * [x] Intro to [CodeFirstGirls](http://www.codefirstgirls.org.uk) & [OnesToWatch](http://www.codefirstgirls.org.uk/ones-to-watch-2016.html) by [Charlotte Fereday](https://twitter.com/CharlotteBRF)
     * [x] [Eleanor Harding](CustomTopics/CFGOnesToWatch2016/EleanorHarding.md)
     * [x] [Elizabeth Chesters](CustomTopics/CFGOnesToWatch2016/ElizabethChesters.md)
@@ -40,7 +40,7 @@ Questions / Topics to use in discussion.
     * [ ] [Laura Lambert](CustomTopics/CFGOnesToWatch2016/LauraLambert.md)
     * [ ] [Sophie Dundovic](CustomTopics/CFGOnesToWatch2016/SophieDundovic.md)
     * [x] [Solveiga Pakštaitė](CustomTopics/CFGOnesToWatch2016/SolveigaPakštaitė.md)
-    * [ ] [Luciana Cas](CustomTopics/CFGOnesToWatch2016/LucianaCas.md)
+    * [x] [Luciana Cas](CustomTopics/CFGOnesToWatch2016/LucianaCas.md)
     * [ ] [Zara Nowell](CustomTopics/CFGOnesToWatch2016/ZaraNowell.md)
     * [ ] [Phoebe Hugh](CustomTopics/CFGOnesToWatch2016/PhoebeHugh.md)
     * [ ] [Nikhila Ravi](CustomTopics/CFGOnesToWatch2016/NikhilaRavi.md)
