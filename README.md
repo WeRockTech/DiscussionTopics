@@ -48,6 +48,9 @@ Questions / Topics to use in discussion.
     * [x] [Dorothy Wingrove](CustomTopics/CFGOnesToWatch2016/DorothyWingrove.md)
     * [ ] [Imara Speek](CustomTopics/CFGOnesToWatch2016/ImaraSpeek.md)
 
+* CF: G Ones To Watch Series 2017
+    * [ ] 
+
 * EmpowerHack
    * [x] Introduction 
    * [x] Project intros
