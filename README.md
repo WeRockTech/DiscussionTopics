@@ -4,7 +4,7 @@ Questions / Topics to use in discussion.
 
 ## Format
 
-* ~30-60 minutes
+* ~30-60 minutes (post production edit is usually half the recorded duration)
 * Google Hangout on Air
 * Timeline
     * Introduction
