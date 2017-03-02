@@ -28,6 +28,15 @@ Questions / Topics to use in discussion.
     * [x] [Krissy Rabino](CustomTopics/WomenRockTech/KrissyRabino.md)
     * [x] [Marta Kutt](CustomTopics/WomenRockTech/MartaKutt.md)
     * [x] [Tanya Powell](CustomTopics/WomenRockTech/TanyaPowell.md)
+    
+* EmpowerHack
+   * [x] Introduction 
+   * [x] Project intros
+
+* HackBrexit
+   * [x] Intro
+   * [x] Project intros
+   * [ ] ~~Project presentations~~ *(Quality of recording was not great)*
 
 * CF: G Ones To Watch Series 2016
     * [x] Intro to [CodeFirstGirls](http://www.codefirstgirls.org.uk) & [OnesToWatch](http://www.codefirstgirls.org.uk/ones-to-watch-2016.html) by [Charlotte Fereday](https://twitter.com/CharlotteBRF)
@@ -50,15 +59,6 @@ Questions / Topics to use in discussion.
 
 * CF: G Ones To Watch Series 2017
     * [ ] 
-
-* EmpowerHack
-   * [x] Introduction 
-   * [x] Project intros
-
-* HackBrexit
-   * [x] Intro
-   * [x] Project intros
-   * [ ] ~~Project presentations~~ *(Quality of recording was not great)*
 
 ---
 
