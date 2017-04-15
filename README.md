@@ -58,7 +58,7 @@ Questions / Topics to use in discussion.
     * [ ] [Imara Speek](CustomTopics/CFGOnesToWatch2016/ImaraSpeek.md)
 
 * CF: G Ones To Watch Series 2017
-    * [ ] [Shwetal Shah]()
+    * [ ] [Shwetal Shah](CustomTopics/CFGOnesToWatch2017/ShwetalShah.md)
 
 ---
 
