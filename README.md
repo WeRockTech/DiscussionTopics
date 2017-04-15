@@ -28,6 +28,7 @@ Questions / Topics to use in discussion.
     * [x] [Krissy Rabino](CustomTopics/WomenRockTech/KrissyRabino.md)
     * [x] [Marta Kutt](CustomTopics/WomenRockTech/MartaKutt.md)
     * [x] [Tanya Powell](CustomTopics/WomenRockTech/TanyaPowell.md)
+    * [ ] ByBreen Samuels
     
 * EmpowerHack
    * [x] Introduction 
@@ -59,6 +60,13 @@ Questions / Topics to use in discussion.
 
 * CF: G Ones To Watch Series 2017
     * [ ] [Shwetal Shah](CustomTopics/CFGOnesToWatch2017/ShwetalShah.md)
+    * [ ] Doniya Soni
+    * [ ] Victoria Butt
+    * [ ] Amandine Flachs
+    * [ ] Clare Devine
+    * [ ] Emily Horgan
+    * [ ] Alexis Monks
+    * [ ] Naomi Pentrel
 
 ---
 
