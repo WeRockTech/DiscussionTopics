@@ -67,6 +67,7 @@ Questions / Topics to use in discussion.
     * [ ] Emily Horgan
     * [ ] Alexis Monks
     * [ ] Naomi Pentrel
+    * [ ] Rebekah Mercer
 
 ---
 
