@@ -59,7 +59,7 @@ Questions / Topics to use in discussion.
     * [ ] [Imara Speek](CustomTopics/CFGOnesToWatch2016/ImaraSpeek.md)
 
 * CF: G Ones To Watch Series 2017
-    * [ ] [Shwetal Shah](CustomTopics/CFGOnesToWatch2017/ShwetalShah.md)
+    * [x] [Shwetal Shah](CustomTopics/CFGOnesToWatch2017/ShwetalShah.md)
     * [ ] [Tanya Mathew](CustomTopics/CFGOnesToWatch2017/TanyaMathew.md)
     * [ ] Doniya Soni
     * [ ] Victoria Butt
