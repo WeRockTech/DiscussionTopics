@@ -60,7 +60,7 @@ Questions / Topics to use in discussion.
 
 * CF: G Ones To Watch Series 2017
     * [x] [Shwetal Shah](CustomTopics/CFGOnesToWatch2017/ShwetalShah.md)
-    * [ ] [Tanya Mathew](CustomTopics/CFGOnesToWatch2017/TanyaMathew.md)
+    * [x] [Tanya Mathew](CustomTopics/CFGOnesToWatch2017/TanyaMathew.md)
     * [ ] Doniya Soni
     * [ ] Victoria Butt
     * [ ] Amandine Flachs
