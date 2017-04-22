@@ -62,10 +62,10 @@ Questions / Topics to use in discussion.
     * [x] [Shwetal Shah](CustomTopics/CFGOnesToWatch2017/ShwetalShah.md)
     * [x] [Tanya Mathew](CustomTopics/CFGOnesToWatch2017/TanyaMathew.md)
     * [ ] [Irina Tsyganok](CustomTopics/CFGOnesToWatch2017/IrinaTsyganok.md)
-    * [ ] Doniya Soni
-    * [ ] Victoria Butt
-    * [ ] Amandine Flachs
     * [ ] Clare Devine
+    * [ ] Victoria Butt
+    * [ ] Doniya Soni
+    * [ ] Amandine Flachs
     * [ ] Emily Horgan
     * [ ] Alexis Monks
     * [ ] Naomi Pentrel
