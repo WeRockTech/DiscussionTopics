@@ -64,13 +64,14 @@ Questions / Topics to use in discussion.
     * [x] [Irina Tsyganok](CustomTopics/CFGOnesToWatch2017/IrinaTsyganok.md)
     * [x] [Clare Devine](CustomTopics/CFGOnesToWatch2017/ClareDevine.md)
     * [ ] [Victoria Butt](CustomTopics/CFGOnesToWatch2017/VictoriaButt.md)
+    * [ ] Emma Northcott
+    * [ ] Molly Watts
     * [ ] Doniya Soni
     * [ ] Amandine Flachs
     * [ ] Emily Horgan
     * [ ] Alexis Monks
     * [ ] Naomi Pentrel
     * [ ] Rebekah Mercer
-    * [ ] Molly Watts
 
 ---
 
