@@ -29,9 +29,9 @@ Questions / Topics to use in discussion.
     * [x] [Marta Kutt](CustomTopics/WomenRockTech/MartaKutt.md)
     * [x] [Tanya Powell](CustomTopics/WomenRockTech/TanyaPowell.md)
     * [ ] ByBreen Samuels
-    
+
 * EmpowerHack
-   * [x] Introduction 
+   * [x] Introduction
    * [x] Project intros
 
 * HackBrexit
@@ -64,7 +64,7 @@ Questions / Topics to use in discussion.
     * [x] [Irina Tsyganok](CustomTopics/CFGOnesToWatch2017/IrinaTsyganok.md)
     * [x] [Clare Devine](CustomTopics/CFGOnesToWatch2017/ClareDevine.md)
     * [ ] [Victoria Butt](CustomTopics/CFGOnesToWatch2017/VictoriaButt.md)
-    * [ ] Emma Northcott
+    * [ ] [Emma Northcott](CustomTopics/CFGOnesToWatch2017/EmmaNorthcott.md)
     * [ ] Molly Watts
     * [ ] Doniya Soni
     * [ ] Amandine Flachs
