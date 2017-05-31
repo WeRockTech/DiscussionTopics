@@ -64,9 +64,9 @@ Questions / Topics to use in discussion.
     * [x] [Irina Tsyganok](CustomTopics/CFGOnesToWatch2017/IrinaTsyganok.md)
     * [x] [Clare Devine](CustomTopics/CFGOnesToWatch2017/ClareDevine.md)
     * [x] [Victoria Butt](CustomTopics/CFGOnesToWatch2017/VictoriaButt.md)
+    * [ ] [Doniya Soni](CustomTopics/CFGOnesToWatch2017/DoniyaSoni.md)
     * [ ] [Molly Watt](CustomTopics/CFGOnesToWatch2017/MollyWatt.md)
     * [ ] [Emma Northcott](CustomTopics/CFGOnesToWatch2017/EmmaNorthcott.md)
-    * [ ] Doniya Soni
     * [ ] Amandine Flachs
     * [ ] Emily Horgan
     * [ ] Alexis Monks
