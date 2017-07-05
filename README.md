@@ -66,7 +66,7 @@ Questions / Topics to use in discussion.
     * [x] [Victoria Butt](CustomTopics/CFGOnesToWatch2017/VictoriaButt.md)
     * [x] [Doniya Soni](CustomTopics/CFGOnesToWatch2017/DoniyaSoni.md)
     * [x] [Amandine Flachs](CustomTopics/CFGOnesToWatch2017/AmandineFlachs.md)
-    * [ ] Lola Olaore
+    * [ ] [Lola Olaore](CustomTopics/CFGOnesToWatch2017/LolaOlaore.md)
     * [ ] [Molly Watt](CustomTopics/CFGOnesToWatch2017/MollyWatt.md)
     * [ ] [Emma Northcott](CustomTopics/CFGOnesToWatch2017/EmmaNorthcott.md)
     * [ ] Emily Horgan
