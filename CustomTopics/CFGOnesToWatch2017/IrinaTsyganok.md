@@ -3,6 +3,7 @@
 From Twitter
 > Software developer @ynap. Mother, speaker, published author. Shortlisted in 'Rising Star of The Year' @womeninitawards, "The Ones To Watch" @CodeFirstGirls 
 
+- [GitHub](https://github.com/irinatsyganok)
 - [LinkedIn](https://www.linkedin.com/in/irina-tsyganok-51238220/)
 - [Twitter](https://twitter.com/irinatsyganok)
 
