@@ -70,7 +70,7 @@ Questions / Topics to use in discussion.
     * [ ] [Molly Watt](CustomTopics/CFGOnesToWatch2017/MollyWatt.md)
     * [ ] [Emma Northcott](CustomTopics/CFGOnesToWatch2017/EmmaNorthcott.md)
     * [ ] Emily Horgan
-    * [ ] Alexis Monks
+    * [ ] [Alexis Monks](CustomTopics/CFGOnesToWatch2017/AlexisMonk.md)
     * [ ] Naomi Pentrel
     * [ ] Rebekah Mercer
 
