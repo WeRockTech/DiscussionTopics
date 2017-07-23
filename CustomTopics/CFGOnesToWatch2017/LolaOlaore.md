@@ -1,11 +1,9 @@
-# Irina Tsyganok
+# Lola Olaore
 
-From Twitter
-> Software developer @ynap. Mother, speaker, published author. Shortlisted in 'Rising Star of The Year' @womeninitawards, "The Ones To Watch" @CodeFirstGirls 
+From CF:G
+> Before joining Accenture as a Technology Analyst Lola participated in Google’s Top Black Talent Programme where she learnt about different roles in the tech industry. She then enrolled onto a coding course. Lola is currently completing a course which focuses on cloud integration. 
 
-- [GitHub](https://github.com/irinatsyganok)
-- [LinkedIn](https://www.linkedin.com/in/irina-tsyganok-51238220/)
-- [Twitter](https://twitter.com/irinatsyganok)
+- [LinkedIn](https://www.linkedin.com/in/lola-olaore-07861b26/)
 
 
 ## Intro
@@ -26,7 +24,5 @@ From Twitter
 - Events
    - What events have you been to and recommend
    - What events would you like to go to 
-- Projects
-   - Current side projects
-   - Future projects
-- Published paper "Agile Processes in Software Engineering and Extreme Programming"
+- Languages
+   - Mandarin

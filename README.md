@@ -64,13 +64,15 @@ Questions / Topics to use in discussion.
     * [x] [Irina Tsyganok](CustomTopics/CFGOnesToWatch2017/IrinaTsyganok.md)
     * [x] [Clare Devine](CustomTopics/CFGOnesToWatch2017/ClareDevine.md)
     * [x] [Victoria Butt](CustomTopics/CFGOnesToWatch2017/VictoriaButt.md)
-    * [ ] [Doniya Soni](CustomTopics/CFGOnesToWatch2017/DoniyaSoni.md)
+    * [x] [Doniya Soni](CustomTopics/CFGOnesToWatch2017/DoniyaSoni.md)
+    * [x] [Amandine Flachs](CustomTopics/CFGOnesToWatch2017/AmandineFlachs.md)
+    * [ ] [Lola Olaore](CustomTopics/CFGOnesToWatch2017/LolaOlaore.md)
     * [ ] [Molly Watt](CustomTopics/CFGOnesToWatch2017/MollyWatt.md)
     * [ ] [Emma Northcott](CustomTopics/CFGOnesToWatch2017/EmmaNorthcott.md)
     * [ ] [Louise Leolin](CustomTopics/CFGOnesToWatch2017/LouiseLeolin.md)
     * [ ] Amandine Flachs
     * [ ] Emily Horgan
-    * [ ] Alexis Monks
+    * [ ] [Alexis Monks](CustomTopics/CFGOnesToWatch2017/AlexisMonk.md)
     * [ ] Naomi Pentrel
     * [ ] Rebekah Mercer
 
