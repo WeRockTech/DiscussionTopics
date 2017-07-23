@@ -67,6 +67,7 @@ Questions / Topics to use in discussion.
     * [ ] [Doniya Soni](CustomTopics/CFGOnesToWatch2017/DoniyaSoni.md)
     * [ ] [Molly Watt](CustomTopics/CFGOnesToWatch2017/MollyWatt.md)
     * [ ] [Emma Northcott](CustomTopics/CFGOnesToWatch2017/EmmaNorthcott.md)
+    * [ ] [Louise Leolin](CustomTopics/CFGOnesToWatch2017/LouiseLeolin.md)
     * [ ] Amandine Flachs
     * [ ] Emily Horgan
     * [ ] Alexis Monks
