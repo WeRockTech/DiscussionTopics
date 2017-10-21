@@ -25,7 +25,7 @@ From LinkedIn
 - Events
    - Which ones do you go to
    - Which ones do you want to go to
-- Apprentice to Associate at Sky
+- ~~Apprentice~~ Associate to Associate at Sky
    - How was this journey
    - What helped you 
    - What made it more difficult
