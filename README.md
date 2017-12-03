@@ -73,7 +73,7 @@ Questions / Topics to use in discussion.
     * [ ] Amandine Flachs
     * [ ] Emily Horgan
     * [ ] [Alexis Monks](CustomTopics/CFGOnesToWatch2017/AlexisMonk.md)
-    * [ ] Naomi Pentrel
+    * [ ] [Naomi Pentrel](CustomTopics/CFGOnesToWatch2017/NaomiPentrel.md)
     * [ ] Rebekah Mercer
 
 ---
