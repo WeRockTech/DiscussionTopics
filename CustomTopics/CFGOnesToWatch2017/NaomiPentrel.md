@@ -1,4 +1,4 @@
-# Naomi Penrel
+# Naomi Pentrel
 
 From LinkedIn
 >  Engineer with previous work experience from interning at Google, Microsoft, and Palantir Technologies. Passionate event organizer, recently organized the magical OxfordHack. Hackathon enthusiast and regular attendee. Computer Science graduate. Developer weapon of choice: Python.
